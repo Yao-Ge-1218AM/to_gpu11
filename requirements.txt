@@ -1,0 +1,13 @@
+# Core data handling
+pandas>=1.5
+numpy>=1.23
+
+# Read .xlsx baseline via pandas.read_excel
+openpyxl>=3.1
+
+# Azure OpenAI client (AzureOpenAI)
+openai>=1.0
+
+# MedCPT mapping
+torch>=1.13
+transformers>=4.35
